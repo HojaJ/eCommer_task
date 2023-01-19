@@ -1,6 +1,6 @@
 <p align="center">
     Laravel Vue.js eCommerce App
-/p>
+</p>
 
 ### Commands for running the app
 - php artisan migrate db:seed
